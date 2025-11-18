@@ -2,8 +2,6 @@
 **Turn any selfie into a stunning AI avatar in seconds**  
 Powered by **OpenAI GPT-4o Vision** (smart prompt) + **Stable Diffusion 1.5** (image generation)
 
-Live in 4–10 seconds even on CPU | No frontend needed – just use Swagger UI!
-
 ### Features
 - Upload a selfie (JPG/PNG)
 - Choose style: `cartoon | anime | realistic | superhero | fantasy | cyberpunk | oil-painting | pixel-art`

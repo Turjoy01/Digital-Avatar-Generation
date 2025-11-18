@@ -1,0 +1,16 @@
+# Must ignore
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Hugging Face cache
+~/.cache/huggingface/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
